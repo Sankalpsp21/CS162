@@ -1,0 +1,15 @@
+7
+1 Bulbasaur Grass
+Vine_Whip Razor_Leaf Solarbeam Growl
+4 Charmander Fire
+Scratch Ember Flamethrower Rage
+7 Squirtle Water
+Bubble Bite Tackle Aqua_Tail
+25 Pikachu Electric
+Thundershock Quick_Attack Swift Electro_Ball
+37 Vulpix Fire
+Flame_Burst Confuse_Ray Fire_Spin Payback
+54 Psyduck Water
+Soak Confusion Zen_Headbutt Water_Sport
+133 Eevee Normal
+Helping_Hand Sand_Attack Take_Down Last_Resort
